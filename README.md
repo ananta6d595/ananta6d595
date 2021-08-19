@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ananta6d595
+- 👀 I’m interested in cross-platform technology like flutter.
+- 🌱 I’m currently learning flutter and dart.
+- 💞️ I’m looking to collaborate on interesting projects made with flutter.
+- 📫 Reach me by email: ananta6d595@gmail.com
