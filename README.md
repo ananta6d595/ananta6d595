@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **ananta6d595@gmail.com**
 
-https://camo.githubusercontent.com/db0f3d5574226c63b2fd3bedab87217fc3d793bb9d197ea0237a0a50aae43d45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d4646413631313f7374796c653d666c6174266c6f676f3d6669726562617365266c6f676f436f6c6f723d464646464646
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ananta-roy-aa714b1ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananta-roy-aa714b1ab/" height="30" width="40" /></a>
