@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananta Roy</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh</h3>
 
-<p>
-  
-  
-</p>
+
 - 🔭 I’m currently working on **Mistri Bari**
 
 - 🌱 I’m currently learning **Flutter**
