@@ -5,7 +5,7 @@
   
   
 </p>
-- 🔭 I’m currently working on **MistriBari**
+- 🔭 I’m currently working on **Mistri Bari**
 
 - 🌱 I’m currently learning **Flutter**
 
