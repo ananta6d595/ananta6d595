@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter developer from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on **Mistri Bari**
+- 🔭 I’m currently working on **Mistri Bari app**
 
 - 🌱 I’m currently learning **Flutter**
 
