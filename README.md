@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananta Roy</h1>
-<h3 align="center">
+<p align="center">
 A software engineer and specializes in cross-platform app development. I can translate required designs into pixel-perfect applications that run smooth.
-</h3>
+</p>
 
 - 🔭 I’m currently working on **Mobile Apps**
 
