@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ananta Roy</h1>
-<h3 align="center">A passionate Flutter developer from Bangladesh</h3>
+<h3 align="center">
+A software engineer and specializes in cross-platform app development. I can translate required designs into pixel-perfect applications that run smooth.
+</h3>
 
-
-- 🔭 I’m currently working on **Mobile App**
+- 🔭 I’m currently working on **Mobile Apps**
 
 - 🌱 I’m currently learning **Flutter**
 
