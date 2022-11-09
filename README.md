@@ -3,7 +3,7 @@
 A software engineer and specializes in cross-platform app development. I can translate required designs into pixel-perfect applications that run smooth.
 </p>
 
-- 🔭 I’m currently working on **Mobile Apps with flutter**
+- 🔭 I’m currently working on **Learning react**
 
 - 📫 How to reach me **ananta6d595@gmail.com**
 
