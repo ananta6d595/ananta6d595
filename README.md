@@ -28,7 +28,7 @@ A software engineer and specializes in cross-platform app development. I can tra
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ananta6d595)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananta6d595&hide=javascript,css,scss,html,php&theme=notheme)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananta6d595&theme=notheme)
 ![](https://github-profile-trophy.vercel.app/?username=ananta6d595)
 
 
