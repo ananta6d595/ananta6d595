@@ -11,7 +11,6 @@ A software engineer who specializes in full stack development. I can translate r
 <p align="left">
 <a href="https://www.linkedin.com/in/ananta-roy-aa714b1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananta-roy-aa714b1ab/" height="30" width="40" /></a>
 <a href="https://leetcode.com/ananta6d595/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="https://leetcode.com/ananta6d595/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/a6d5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/a6d5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
