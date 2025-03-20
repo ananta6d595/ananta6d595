@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ananta Roy</h1>
 <p align="center">
-A software engineer who specializes in full stack development. I can translate required designs into pixel-perfect applications that run smoothly and also does some backend magic.
+A software engineer who specializes in full stack development. I can translate required designs into pixel-perfect applications that run smoothly with applying backend and devops knowledge for stability.
 </p>
 
-- 🔭 I’m currently **Learning web dev**
+- 🔭 I’m currently **Learning ovh cloud**
 
 - 📫 How to reach me **ananta6d595@gmail.com**
 
