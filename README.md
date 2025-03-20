@@ -9,7 +9,7 @@ A software engineer who specializes in full stack development. I can translate r
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ananta-roy-aa714b1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananta-roy-aa714b1ab/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ananta-roy-fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananta-roy-aa714b1ab/" height="30" width="40" /></a>
 <a href="https://leetcode.com/ananta6d595/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="https://leetcode.com/ananta6d595/" height="30" width="40" /></a>
 </p>
 
