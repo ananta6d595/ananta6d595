@@ -22,7 +22,6 @@ A software engineer who specializes in full stack development. I can translate r
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananta6d595&theme=nord_bright)
 ![Ananta's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananta6d595&theme=nord_bright)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ananta6d595)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananta6d595&theme=notheme)
 ![](https://github-profile-trophy.vercel.app/?username=ananta6d595)
 
 
